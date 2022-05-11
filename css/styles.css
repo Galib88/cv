@@ -1,0 +1,21 @@
+body {
+  background-color: #e0fcff;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+
+  width: 5%;
+  white-space: 20;
+}
+h1,
+h3 {
+  color: #6eb6ff;
+}
+
+.atom {
+  background-color: #00adb5;
+}
